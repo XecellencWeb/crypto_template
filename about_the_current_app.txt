@@ -1,0 +1,13 @@
+the react app is runned with yarn as the package manager.
+onces the app starts, a user needs to be authenticated to access the website features like bitcoin trading
+there is also a protected kind of route to give users priviledges about for the app like the admin can do some things that users cant do.
+
+problems with the app
+
+the current problem with the app is that there is a backend section of the app which is needed for new users to be created but the backend api is not provided causing the app not to be able to direct a user well to the right page.
+since the frontend as to send api request to the backend and currently now, it is being programmed to send request to a real server.
+
+
+solution
+
+To properly understand the app the backend url has to be provided so users can be created and functionalities added respectively. 
